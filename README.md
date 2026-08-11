@@ -22,3 +22,12 @@
 **Note:** Cowork uses more tokens than standard chat, think of it as Claude doing deep work, not quick answers
 Claude Cowork Practical Demo: Organizing files and using excel skills
 This practical demo makes files organized in different categories and calculates the total receipts in excel using Claude Cowork.
+There are 2 invoices, 2 receipts and 2 agreements in Small Business folder:
+
+The prompt (used with Opus 4.8) :
+"Organise the folder into categories: receipts, invoices and agreements. Then I want you to add the total receipts and exports them in an Excel Sheet."
+Output:
+As receipts have different currency the total is not correct. Claude has already mentioned in the result. We can use the following prompt to get receipts in CAD:
+"Convert USD rows to CAD. Take the currency conversation value of the date mentioned."
+Output:
+
