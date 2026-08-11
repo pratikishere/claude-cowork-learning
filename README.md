@@ -20,3 +20,5 @@
 - **Scheduled Tasks:** Create recurring automated tasks that run on a set schedule
 
 **Note:** Cowork uses more tokens than standard chat, think of it as Claude doing deep work, not quick answers
+Claude Cowork Practical Demo: Organizing files and using excel skills
+This practical demo makes files organized in different categories and calculates the total receipts in excel using Claude Cowork.
