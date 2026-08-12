@@ -14,8 +14,8 @@
 ### Cowork capabilities
 - **Document Creation:** Word docs, Spreadsheets, presentations, PDFs with professional formatting 
 - **Data Analysis:** Statistical analysis, visualization, data cleaning and transformation
-- **R****easearch and synthesis:** Web reasearch, transcript analysis, multi-source information gathering
-- **File management: **Organize folders, batch rename, process receipts, sort files
+- **Reasearch and synthesis:** Web reasearch, transcript analysis, multi-source information gathering
+- **File management:** Organize folders, batch rename, process receipts, sort files
 - **Code and automation:** Write scripts, build tools, automate repetitive workflows
 - **Scheduled Tasks:** Create recurring automated tasks that run on a set schedule
 
